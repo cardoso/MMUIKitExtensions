@@ -1,5 +1,8 @@
 # MMUIKitExtensions
-Useful UIKit extensions
+>Useful UIKit extensions
+
+## How to Use
+>This is intended to be a collection of snippets rather than a monolithic package, so just copy and paste the extension you need in a file somewhere in your project
 
 ## UILabel with Ghost Animation
 
